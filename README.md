@@ -16,14 +16,8 @@ Based in Cluj-Napoca. I'm learning how to build web apps, working on my projects
 
 ---
 
-### 👤 About Me
-
-I’m focused on learning how to build functional web applications from the ground up. I like working on both the frontend and the backend, and I'm just trying to get better at writing solid, clean code.
-
-Outside of coding, I enjoy reading, watching F1, and supporting Bayern Munich.
-
----
-
 ### 📫 Let's Connect
 
 *   **LinkedIn:** [Profile](https://www.linkedin.com/in/alexandrutrifan/)
+
+![Leetcode](https://leetcard.jacoblin.cool/alex-trifan?ext=heatmap)
