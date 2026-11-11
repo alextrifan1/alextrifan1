@@ -1,6 +1,6 @@
 ### Alexandru Trifan
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=1000&color=E10600&vCenter=true&width=500&height=28&repeat=false&lines=Fond+of+clean+logs+and+well-maintained+machines." alt="Fond of clean logs and well-maintained machines.">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=1000&color=E63946&vCenter=true&width=500&height=28&repeat=false&lines=Fond+of+clean+logs+and+well-maintained+machines." alt="Fond of clean logs and well-maintained machines.">
 
 MSc High Performance Computing at Babeș-Bolyai University. Previously QA Engineer Intern at FanDuel.
 
